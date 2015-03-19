@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/Users/root1/Desktop/example/example/build/intermediates/exploded-aar/example/lib/unspecified/assets"/></dataSet><dataSet config="main"><source path="/Users/root1/Desktop/example/example/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/root1/Desktop/example/example/src/debug/assets"/></dataSet></merger>

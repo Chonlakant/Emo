@@ -1,0 +1,3 @@
+/Users/root1/Desktop/example/example/build/intermediates/classes/debug
+/Users/root1/Desktop/example/example/build/intermediates/pre-dexed/debug/classes-f26f2010b3d53e925e87d1639aa6107e83333d69.jar
+/Users/root1/Desktop/example/example/build/intermediates/pre-dexed/debug/support-v4-19.1.0-25e4e965969d097191d3320d3a42cd2fee145d20.jar
